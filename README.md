@@ -16,6 +16,7 @@ pueda usar sin manual.
 
 | | Qué es | Stack |
 |---|---|---|
+| **[cerebro](https://github.com/alfregarrone/cerebro)** | Un cerebro con IA para el Amazon Echo, en español rioplatense: memoria, recordatorios, dólar, clima y fútbol en vivo, y un puente firmado con HMAC para manejar la PC por voz. | Python · Alexa-hosted · Gemini |
 | **[whatsapp-ai-bot-starter](https://github.com/alfregarrone/whatsapp-ai-bot-starter)** | Bot de WhatsApp que responde con los documentos de tu negocio. Webhook firmado, RAG sobre pgvector, y deriva a una persona cuando no encuentra la respuesta en vez de inventarla. | Next.js · Supabase · Groq/Claude |
 | **[ar-utils](https://github.com/alfregarrone/ar-utils)** | Las validaciones argentinas que todos reescribimos: CUIT, CBU y alias, DNI, pesos, teléfonos y fechas. Cero dependencias, 46 tests. | TypeScript · npm · Vitest |
 | **Pesito** *(código privado)* | Asistente de finanzas personales con IA para Argentina. Chat, registro de gastos y presupuestos. En la App Store. | React Native · Expo · Groq |

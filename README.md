@@ -1,39 +1,40 @@
-# Hola, soy Alfredo Garrone 👋
+<img src="assets/banner.png" alt="Alfredo Garrone — Productos con IA y automatización" width="100%">
+
+### Hola 👋
 
 Desarrollo productos con IA y automatización desde Argentina. Fundador de **CORX**, donde construyo
 web apps, apps móviles, chatbots con IA y automatizaciones para empresas que necesitan más que un
 freelance y menos burocracia que una agencia.
 
-- 🚀 Lancé **Pesito**, un asistente de finanzas personales con IA para Argentina — en la App Store
-- 🧰 Trabajo a diario con **TypeScript, Next.js, Supabase (Postgres + RLS), React Native y APIs de LLMs**
-- 🤖 Me especializo en meter IA adentro de productos reales: RAG, chat con contexto, categorización automática
-- 🌎 Disponible para trabajo remoto y proyectos a medida — Argentina (UTC-3)
-- 📫 contacto@corxargentina.com · [corxargentina.com](https://corxargentina.com)
+Lo que me interesa no es meter un modelo en un producto, sino que el producto sea honesto: que
+responda con datos reales, que diga "no sé" cuando no sabe, y que alguien que no es técnico lo
+pueda usar sin manual.
 
 ---
 
-### 🛠️ Stack
+### Proyectos
 
-**Lenguajes** · TypeScript · JavaScript · Python · SQL
-**Front** · Next.js (App Router) · React · React Native / Expo · Tailwind
-**Back y datos** · Node.js · Supabase · PostgreSQL · pgvector · Row Level Security
-**IA** · Claude API · Groq · OpenAI · RAG · function calling · Claude Code
-**Infra** · Vercel · GitHub Actions · Docker · n8n
-
----
-
-### 📌 Proyectos
-
-| Proyecto | Qué es | Stack |
+| | Qué es | Stack |
 |---|---|---|
-| **[whatsapp-ai-bot-starter](https://github.com/alfregarrone/whatsapp-ai-bot-starter)** | Bot de WhatsApp que responde con los documentos de tu negocio. Webhook firmado, RAG sobre pgvector, deriva a un humano cuando no sabe. | Next.js · Supabase · Groq/Claude |
-| **[ar-utils](https://github.com/alfregarrone/ar-utils)** | Las validaciones argentinas que todos reescribimos: CUIT, CBU, DNI, pesos, teléfonos y fechas. Cero dependencias. | TypeScript · npm · Vitest |
-| **Pesito** *(código privado)* | Asistente de finanzas personales con IA para Argentina. Chat, registro de gastos, presupuestos. | React Native · Expo · Groq |
+| **[whatsapp-ai-bot-starter](https://github.com/alfregarrone/whatsapp-ai-bot-starter)** | Bot de WhatsApp que responde con los documentos de tu negocio. Webhook firmado, RAG sobre pgvector, y deriva a una persona cuando no encuentra la respuesta en vez de inventarla. | Next.js · Supabase · Groq/Claude |
+| **[ar-utils](https://github.com/alfregarrone/ar-utils)** | Las validaciones argentinas que todos reescribimos: CUIT, CBU y alias, DNI, pesos, teléfonos y fechas. Cero dependencias, 46 tests. | TypeScript · npm · Vitest |
+| **Pesito** *(código privado)* | Asistente de finanzas personales con IA para Argentina. Chat, registro de gastos y presupuestos. En la App Store. | React Native · Expo · Groq |
 
 ---
 
-### 💼 Trabajo con clientes
+### Con qué trabajo
+
+**Lenguajes** — TypeScript · JavaScript · Python · SQL
+**Front** — Next.js (App Router) · React · React Native / Expo · Tailwind
+**Back y datos** — Node.js · Supabase · PostgreSQL · pgvector · Row Level Security
+**IA** — Claude API · Groq · OpenAI · RAG · function calling
+**Infra** — Vercel · GitHub Actions · Docker · n8n
+
+---
+
+### Trabajo con clientes
 
 En CORX entrego productos completos, no prototipos: relevamiento, desarrollo, despliegue y soporte.
-Casos de trabajo real en **[corxargentina.com](https://corxargentina.com)**.
-¿Tenés un proyecto en mente? contacto@corxargentina.com
+Los casos con resultados y capturas están en **[corxargentina.com](https://corxargentina.com)**.
+
+¿Tenés un proyecto en mente? **contacto@corxargentina.com**
